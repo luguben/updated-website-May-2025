@@ -1,5 +1,5 @@
 ---
-title: Combining Mokken Scale Analysis with and rasch measurement theory to explore
+title: Combining Mokken Scale Analysis and Rasch measurement theory to explore
   differences in measurement quality between subgroups
 
 # Authors
