@@ -13,8 +13,6 @@ interests:
   - Data Visualisation
 
 
-
-
 # Full name (for SEO)
 first_name: Benjamin Kweku
 last_name: Lugu
@@ -76,7 +74,7 @@ social:
     link: https://www.linkedin.com/in/benjamin-lugu-065771140/
   - icon: cv
     icon_pack: ai
-    link: uploads/academic cv_luguben.pdf
+    link: https://docs.google.com/document/d/1_p4iDiHPsQStiMvrfmWEvqlH_W9WDm3b/edit?usp=sharing&ouid=103965570325984223128&rtpof=true&sd=true
     display:
       header: true
 organizations:
@@ -94,6 +92,4 @@ I am a Quantatitive Methodologist. I love teaching and doing research 😊. I am
 
 Shout out to [Dr Wenchao Ma](https://edpsych.umn.edu/people/quantitative-methods-education-faculty/wenchao-ma) (Advisor), [Dr Stefanie Wind](https://professorwind.science/) (Supervisor) and the faculty in the [Ed. Research program at The University of Alabama](https://education.ua.edu/department/educational-studies-in-psychology-research-methodology-and-counseling/educational-research/). They helped shape my life.
 
-Some _fun things_ I do often are: exercising, watching movies, going for a walk, driving and playing with Youtube Shorts 😆.
-
-
+Some _fun things_ I do often are: exercising, watching movies, going for a walk, driving and playing with [Youtube Shorts](https://www.youtube.com/@bklugu/shorts) 😆.
